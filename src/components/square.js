@@ -4,7 +4,6 @@ import Piece from './piece';
 const Square = () => {
   return(
     <td>
-      <Piece />
     </td>
   )
 };
